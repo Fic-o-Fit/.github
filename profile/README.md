@@ -18,48 +18,14 @@ Fic-o-fit is A fitness application containing multiple ML-powered mini-games. On
 
 ### Our Member
 
-<table>
-  <tr>
-    <th align="center">
-      <p> 
-        Name
-      </p>
-    </th>
-    <th align="center">
-      <p> 
-        Bangkit ID
-      </p>
-    </th>
-    <th align="center">
-      <p> 
-        Role
-      </p>
-    </th>
-    <th align="center">
-      <p> 
-        Github
-      </p>
-    </th>
-  </tr>
-  <tr>
-  <td> Reski Mulud Muchamad</td> <td>  A2267F2298 </td> <td>  Mobile Development </td> <td> <a href="https://github.com/reskimulud"> Profile </a> </td>
-  </tr>
-  <tr>
-  <td> M Fauzy Wijaya K</td> <td>  A7267F2299</td> <td>  Mobile Development </td> <td> <a href="https://github.com/fauzywijaya"> Profile </a> </td>
-  </tr>
-  <tr>
-  <td> Deandra Setyaputri</td> <td>  M2010F1120</td> <td>  Machine Learning </td> <td> <a href="https://github.com/deeandra"> Profile </a> </td>
-  </tr>
-  <tr>
-  <td> Wilma Elysia </td> <td> M7013F1348 </td> <td>  Machine Learning </td> <td> <a href="https://github.com/wil-ma"> Profile </a> </td>
-  </tr>
-  <tr>
-  <td> Salma Shafira Khairaldin</td> <td>  C7010F1109</td> <td> Cloud Computing </td> <td> <a href="https://github.com/SalmaShafiraKhairaldin"> Profile </a> </td>
-  </tr>
-  <tr>
-  <td> Adi Purnomo </td> <td> C2421H2994 </td>  <td> Cloud Computing </td> <td> <a href="https://github.com/medival"> Profile </a> </td>
-  </tr>
-</table>
+|           Name           | Bangkit ID |   Learning Path    |               Role                |                       Github                        |
+| :----------------------: | :--------: | :----------------: | :-------------------------------: | :-------------------------------------------------: |
+|   Reski Mulud Muchamad   | A2267F2298 | Mobile Development |     Mobile Development, UI/UX     |       [Github](https://github.com/reskimulud)       |
+|     M Fauzy Wijaya K     | A7267F2299 | Mobile Development |     Mobile Development, UI/UX     |      [Github](https://github.com/fauzywijaya)       |
+|    Deandra Setyaputri    | M2010F1120 |  Machine Learning  | Machine Learning, Product Manager |        [Github](https://github.com/deeandra)        |
+|       Wilma Elysia       | M7013F1348 |  Machine Learning  |    Machine Learning, Designer     |         [Github](https://github.com/wil-ma)         |
+| Salma Shafira Khairaldin | C7010F1109 |  Cloud Computing   |   Cloud Developer, Team Leader    | [Github](https://github.com/SalmaShafiraKhairaldin) |
+|       Adi Purnomo        | C2421H2994 |  Cloud Computing   |    DevOps Engineer, Consultant    |        [Github](https://github.com/medival)         |
 
 ### Build with
 
