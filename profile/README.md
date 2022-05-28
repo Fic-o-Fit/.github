@@ -18,14 +18,14 @@ Fic-o-fit is A fitness application containing multiple ML-powered mini-games. On
 
 ### Our Member
 
-|           Name           | Bangkit ID |   Learning Path    |                    Role                    |                       Github                        |
-| :----------------------: | :--------: | :----------------: | :----------------------------------------: | :-------------------------------------------------: |
-|   Reski Mulud Muchamad   | A2267F2298 | Mobile Development |          Mobile Developer, UI/UX           |       [Github](https://github.com/reskimulud)       |
-|     M Fauzy Wijaya K     | A7267F2299 | Mobile Development |          Mobile Developer, UI/UX           |      [Github](https://github.com/fauzywijaya)       |
-|    Deandra Setyaputri    | M2010F1120 |  Machine Learning  | Machine Learning Engineer, Product Manager |        [Github](https://github.com/deeandra)        |
-|       Wilma Elysia       | M7013F1348 |  Machine Learning  |    Machine Learning Engineer, Designer     |         [Github](https://github.com/wil-ma)         |
-| Salma Shafira Khairaldin | C7010F1109 |  Cloud Computing   |        Cloud Developer, Team Leader        | [Github](https://github.com/SalmaShafiraKhairaldin) |
-|       Adi Purnomo        | C2421H2994 |  Cloud Computing   |        DevOps Engineer, Consultant         |        [Github](https://github.com/medival)         |
+|           Name           | Bangkit ID |        Role        |                       Github                        |
+| :----------------------: | :--------: | :----------------: | :-------------------------------------------------: |
+|   Reski Mulud Muchamad   | A2267F2298 | Mobile Development |       [Github](https://github.com/reskimulud)       |
+|     M Fauzy Wijaya K     | A7267F2299 | Mobile Development |      [Github](https://github.com/fauzywijaya)       |
+|    Deandra Setyaputri    | M2010F1120 |  Machine Learning  |        [Github](https://github.com/deeandra)        |
+|       Wilma Elysia       | M7013F1348 |  Machine Learning  |         [Github](https://github.com/wil-ma)         |
+| Salma Shafira Khairaldin | C7010F1109 |  Cloud Computing   | [Github](https://github.com/SalmaShafiraKhairaldin) |
+|       Adi Purnomo        | C2421H2994 |  Cloud Computing   |        [Github](https://github.com/medival)         |
 
 ### Build with
 
@@ -46,22 +46,6 @@ Fic-o-fit is A fitness application containing multiple ML-powered mini-games. On
 - JWT
 - Docker
 
-### Getting Started
-
-// Getting Startedd
-
-### Installation
-
-// Installation Step
-
-### Usage
-
-// How to
-
-### Resources
-
-// Resoure
-
 ### Other Repositories
 
 - [Mobile Development](https://github.com/Fic-o-Fit/ficofit-android)
@@ -71,7 +55,3 @@ Fic-o-fit is A fitness application containing multiple ML-powered mini-games. On
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-### References
-
-// Paper
