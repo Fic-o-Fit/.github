@@ -1,7 +1,6 @@
 <p align="center">
-<img align="center" width="100" height="100" src="images/logo.png">
+<img align="center" width="400" height="145" src="images/full-width.png">
 
-<h3 align="center" > Fic-o-fit </h3>
 <p align="center" > Get fit, don't quit </p>
 
 </p>
