@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="400" src="images/full-width.png">
+<img align="center" width="400" src="/profile/images/full-width.png">
 
 <p align="center" > Get fit, don't quit </p>
 
