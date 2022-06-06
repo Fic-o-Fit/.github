@@ -1,5 +1,9 @@
 <p align="center">
-  // Logo or image
+<img align="center" width="100" height="100" src="images/logo.png">
+
+<h3 align="center" > Fic-o-fit </h3>
+<p align="center" > Get fit, don't quit </p>
+
 </p>
 <p align="center">
   Repository Capstone Bangkit Academy 2022 Project Team C22-PS072
